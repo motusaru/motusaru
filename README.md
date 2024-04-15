@@ -1,7 +1,7 @@
-### Hi there 👋
-### I am a CS Student at UNBF
-### I AM IN MY SECOND YEAR
-### FUN FACT I HAVE LIVED IN 4 COUNTRIES AND HAVE VISITED OVER 15.
+## Hi there 👋
+# I am a CS Student at UNBF
+# I AM IN MY SECOND YEAR
+# FUN FACT I HAVE LIVED IN 4 COUNTRIES AND HAVE VISITED OVER 15.
 <!--
 **motusaru/motusaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
